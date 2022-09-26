@@ -5,7 +5,7 @@
 
 <h1 align="center">BBC</h1>
 <p align="center">Meteor Client Add-on focused on the latest PVP modules and utility for anarchy servers.</p>
-<p align="center">by 18deaths - bbc version: 1.0.2 - mc version: 1.19.2</p>
+<p align="center">by 18deaths - bbc version: 1.0.3 - mc version: 1.19.2</p>
 
 <div align="center">
     <a href="https://discord.gg/UbuM7Cxtew"><img src="https://img.shields.io/discord/817139337429909545?label=Discord&style=flat-square" alt="Discord"/></a>
