@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "package": "bbcdevelopment.addon.bbcaddon.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "EntityMixin",
+    "LightningBoltRendererMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "WorldChunkMixin",
+    "LivingEntityMixin",
+    "meteor.ChatUtilsMixin",
+    "PlayerPositionLookS2CPacketAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

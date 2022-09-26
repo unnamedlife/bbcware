@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "bbc",
+  "version": "${version}",
+  "name": "BBCAddon",
+  "description": "A based addon for the Meteor Client.",
+  "authors": [
+    "18deaths",
+    "PFTpancake",
+    "GhostTypes"
+  ],
+  "contact": {
+    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+  },
+  "icon": "assets/bbcaddon/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "bbcdevelopment.addon.bbcaddon.BBCAddon"
+    ]
+  },
+  "mixins": [
+    "bbc.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "225,25,25"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=${mc_version}",
+    "meteor-client": "*"
+  }
+}
