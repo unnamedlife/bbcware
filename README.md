@@ -68,3 +68,10 @@ BBC-Ware is licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.
 ## Errors?
 - Make an [issue](https://github.com/unnamedlife/bbcware/issues)
 - Join the [Discord](https://discord.gg/UbuM7Cxtew)
+        
+## Other Credits
+- [Fabric](https://fabricmc.net/) Team
+- [PFTPancake](https://github.com/PFTpancake) For porting add-on into latest MC version.
+- [Meteor Development Team](https://github.com/MeteorDevelopment/meteor-client) For developing base Meteor Client
+- [Cally72jhb](https://github.com/cally72jhb) For porting & Re-writing PacketFly
+- Last but not least to my friends & fans who made this project possible by supporting the early stages of development. <3
