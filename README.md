@@ -23,6 +23,7 @@
 - Movement |+|   NCP ElytraFly, PacketFly, Better Speed/Strafe
 - Misc |+|   Smart Log, Effects (Kill), Mining+
 - Info |+|   ChatConfigs, Discord RPC
+- You can find a showcase and video clips of most modules [here](https://discord.gg/gqfM43e4fk)
 
 ## Install
 <br>
