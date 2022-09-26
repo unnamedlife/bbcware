@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "id": "bbc",
   "version": "${version}",
-  "name": "BBCAddon",
+  "name": "BBC",
   "description": "A based addon for the Meteor Client.",
   "authors": [
     "18deaths",
-    "PFTpancake",
-    "GhostTypes"
+    "GhostTypes",
+    "PFTPancake"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"

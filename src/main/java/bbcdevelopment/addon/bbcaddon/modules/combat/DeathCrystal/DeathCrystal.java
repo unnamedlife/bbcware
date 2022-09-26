@@ -5,7 +5,6 @@ import bbcdevelopment.addon.bbcaddon.modules.BBCModule;
 import bbcdevelopment.addon.bbcaddon.utils.math.TimerUtils;
 import bbcdevelopment.addon.bbcaddon.utils.world.BlockPosX;
 import bbcdevelopment.addon.bbcaddon.utils.world.Place;
-import com.google.common.eventbus.Subscribe;
 import it.unimi.dsi.fastutil.ints.IntOpenHashSet;
 import it.unimi.dsi.fastutil.ints.IntSet;
 import meteordevelopment.meteorclient.events.entity.EntityAddedEvent;

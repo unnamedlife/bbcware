@@ -44,7 +44,7 @@ public class BBCAddon extends MeteorAddon {
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
             LOG.info("Saving config...");
             Config.get().save();
-            LOG.info("Thanks for using " + ADDON + " " + VERSION + "! Don't forget to join our discord -> https://discord.gg/nc9qQSCHv2");
+            LOG.info("Thanks for using " + ADDON + " " + VERSION + "! Don't forget to join our discord -> https://discord.gg/UbuM7Cxtew");
         }));
 	}
 
