@@ -67,8 +67,8 @@ public class TextUtils {
 
     public static String decrypt(String text, Decryptor decryptor) {
         StringBuilder message = new StringBuilder();
-        char[] d = (decryptor.equals(Decryptor.BedTrap) ? encryptor.get(0).toCharArray() : encryptor.get(2).toCharArray());
-        char[] e = (decryptor.equals(Decryptor.BedTrap) ? encryptor.get(1).toCharArray() : encryptor.get(3).toCharArray());
+        char[] d = (decryptor.equals(Decryptor.BBCrypt) ? encryptor.get(0).toCharArray() : encryptor.get(2).toCharArray());
+        char[] e = (decryptor.equals(Decryptor.BBCrypt) ? encryptor.get(1).toCharArray() : encryptor.get(3).toCharArray());
 
         for (char c : text.toCharArray()) {
             for (int i = 0; i < e.length; i++) {
@@ -158,6 +158,6 @@ public class TextUtils {
     }
 
     public enum Decryptor {
-        BedTrap, Proxima
+        BBCrypt, Proxima
     }
 }
