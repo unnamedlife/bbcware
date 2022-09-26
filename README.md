@@ -10,11 +10,11 @@
 <div align="center">
     <a href="https://discord.gg/UbuM7Cxtew"><img src="https://img.shields.io/discord/817139337429909545?label=Discord&style=flat-square" alt="Discord"/></a>
     <br>
-    <img src="https://img.shields.io/github/last-commit/unnamedlife/bbcware" alt="GitHub last commit"/>
-    <img src="https://img.shields.io/github/commit-activity/w/unnamedlife/bbcware" alt="GitHub commit activity"/>
-    <img src="https://img.shields.io/github/contributors/unnamedlife/bbcware" alt="GitHub contributors"/>
+    <img src="https://img.shields.io/github/last-commit/unnamedlife/bbcware?style=flat-square" alt="GitHub last commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/unnamedlife/bbcware?style=flat-square" alt="GitHub commit activity"/>
+    <img src="https://img.shields.io/github/contributors/unnamedlife/bbcware?style=flat-square" alt="GitHub contributors"/>
     <br>
-    <img src="https://img.shields.io/github/languages/code-size/unnamedlife/bbcware" alt="GitHub code size in bytes"/>
+    <img src="https://img.shields.io/github/languages/code-size/unnamedlife/bbcware?style=flat-square" alt="GitHub code size in bytes"/>
 </div>
 
 
