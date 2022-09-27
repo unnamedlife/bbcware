@@ -177,8 +177,8 @@ public class  RPC extends BBCModule {
                 rpc.setDetails("Strongest MC Griefing Tool " + BBCAddon.VERSION);
 
                 if (mc.currentScreen instanceof TitleScreen) rpc.setState("Picking a victim");
-                else if (mc.currentScreen instanceof SelectWorldScreen) rpc.setState("Testing Griefing Tools");
-                else if (mc.currentScreen instanceof CreateWorldScreen || mc.currentScreen instanceof EditGameRulesScreen) rpc.setState("Creating world");
+                else if (mc.currentScreen instanceof SelectWorldScreen) rpc.setState("Testing TNT Capacity offline");
+                else if (mc.currentScreen instanceof CreateWorldScreen || mc.currentScreen instanceof EditGameRulesScreen) rpc.setState("Creating megabase replica world");
                 else if (mc.currentScreen instanceof EditWorldScreen) rpc.setState("Testing Griefing Tools");
                 else if (mc.currentScreen instanceof LevelLoadingScreen) rpc.setState("Loading Grief Console");
                 else if (mc.currentScreen instanceof MultiplayerScreen) rpc.setState("Selecting a victim server");

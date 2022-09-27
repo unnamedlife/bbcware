@@ -80,7 +80,7 @@ public class AutoEz extends BBCModule {
     private final Setting<List<String>> killMessages = sgKills.add(new StringListSetting.Builder()
             .name("kill-messages")
             .description("The random messages to send when you kill someone.")
-            .defaultValue(List.of("Officially owned {player} with the power of BBC Kawaii-Hack", "Fireworks show sponsored by BBC Hack https://dsc.gg/bbcd", "Goodnight {target}", "{playerkills} kills on {player} already", "Big Dubs shoutout BBC Boys!", "BBC Kawaii-Hack owns me and all! :o3", "Join BBC Boys today at https://dsc.gg/bbcd", "Damn i love PFTpancake"))
+            .defaultValue(List.of("Officially owned {player} with the power of BBC Kawaii-Hack", "Fireworks show sponsored by BBC Hack https://dsc.gg/bbcd", "Goodnight {target}", "{playerkills} kills on {player} already", "Big Dubs shoutout BBC Boys <3", "BBC Kawaii-Hack owns me and all! :o3", "Join BBC Boys today at https://dsc.gg/bbcd", "18deaths is daddy","PFTPancake is bae"))
             .visible(() -> killMsg.get() && randomMsg.get())
             .build()
     );
