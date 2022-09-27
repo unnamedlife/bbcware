@@ -1,3 +1,5 @@
+//build.gradle *do not touch this*
+
 plugins {
     id 'fabric-loom' version '0.12-SNAPSHOT'
 }
